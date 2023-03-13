@@ -67,3 +67,11 @@ mv id_rsa.pub authorized_keys     或者
 ### 5.重启vscode
 
 重新登录后，就不用再输入密码了
+
+## vscode与git
+
+使用vscode的资源管理库，可与git命令操作一样
+
+1. 建立本地git仓库，在目录中有.git文件表示该目录为本地仓库
+2. 在github中建立远程仓库，并与本地进行连接
+
